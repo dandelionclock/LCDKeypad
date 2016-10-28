@@ -1,0 +1,2 @@
+LCDKeypad		KEYWORD1
+read			KEYWORD2
